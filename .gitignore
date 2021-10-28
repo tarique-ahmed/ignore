@@ -1,5 +1,5 @@
 #password file
-#password.txt
+password.txt
 #Ignore files in the bin directory
 bin/
 #Ignore all files with extension .pyc
